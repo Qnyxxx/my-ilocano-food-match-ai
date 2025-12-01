@@ -1,0 +1,47 @@
+json name=backend/data/dishes.json
+[
+  {
+    "id": 1,
+    "name": "Bagnet",
+    "description": "Crispy deep-fried pork belly, Ilocos-style.",
+    "ingredients": ["pork", "salt", "garlic", "pepper"],
+    "taste": "salty",
+    "cooking_method": "fried",
+    "dietary_tags": ["pork"],
+    "image": "bagnet.jpg",
+    "occasions": ["celebration", "everyday"]
+  },
+  {
+    "id": 2,
+    "name": "Pinakbet",
+    "description": "Mixed vegetables cooked with bagoong (fermented fish/shrimp paste).",
+    "ingredients": ["bitter gourd", "eggplant", "okra", "tomato", "bagoong"],
+    "taste": "savory",
+    "cooking_method": "boiled",
+    "dietary_tags": ["seafood", "vegetarian?"],
+    "image": "pinakbet.jpg",
+    "occasions": ["everyday"]
+  },
+  {
+    "id": 3,
+    "name": "Dinengdeng",
+    "description": "A light vegetable soup often flavored with bagoong and sometimes grilled fish.",
+    "ingredients": ["vegetables", "bagoong", "grilled fish"],
+    "taste": "salty",
+    "cooking_method": "boiled",
+    "dietary_tags": ["seafood"],
+    "image": "dinengdeng.jpg",
+    "occasions": ["everyday", "merienda"]
+  },
+  {
+    "id": 4,
+    "name": "Vigan Longganisa",
+    "description": "Garlicky, slightly sweet pork sausage from Vigan.",
+    "ingredients": ["pork", "garlic", "vinegar", "sugar"],
+    "taste": "sweet",
+    "cooking_method": "fried",
+    "dietary_tags": ["pork"],
+    "image": "vigan_longganisa.jpg",
+    "occasions": ["everyday", "celebration"]
+  }
+]
